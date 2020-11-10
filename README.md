@@ -1,6 +1,6 @@
 # Mikro Case Study
 
-MovieStoreApi it's working with message queue. I used ASP.NET Core Web API and EntityFrameworkCore,MediatR,Swagger,RabbitMQ Queue,BackgroundServices,Fluent Validation,AutoMapper 
+MovieStoreApi ASP.NET Core 3.1 Web API I used EntityFrameworkCore,MediatR,Swagger,RabbitMQ Queue,BackgroundServices,Fluent Validation,AutoMapper 
 
 
 ## Getting Started
