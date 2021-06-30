@@ -1,4 +1,4 @@
-# Mikro Case Study
+# Case Study
 
 MovieStoreApi ASP.NET Core 3.1 Web API I used EntityFrameworkCore,MediatR,Swagger,RabbitMQ Queue,BackgroundServices,Fluent Validation,AutoMapper 
 
